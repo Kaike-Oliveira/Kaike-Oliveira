@@ -1,16 +1,19 @@
-### Hi there 👋
+WHATS UP!
 
-<!--
-**Kaike-Oliveira/Kaike-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Iniciando estudos em Ciências da Computação
 
-Here are some ideas to get you started:
+- Buscando conhecimento em PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true" />
+</picture>
+
+
