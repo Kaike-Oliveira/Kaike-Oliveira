@@ -1,20 +1,27 @@
-WHATS UP!
+# Whats up! Kaike here!  🚀 
 
-- Iniciando estudos em Ciências da Computação
+## 🎓 Iniciando em Ciências da Computação
 
-- Buscando conhecimento em PYTHON
+## 👨‍💻 Começando a aprender Backend com Python!
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true" />
-</picture>
+## 💡 Em busca de novos conhecimentos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&layout=compact)](https://github.com/Kaike-Oliveira/github-readme-stats)
+![Kaike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&show_icons=true&theme=radical)](https://github.com/Kaike-Oliveira/github-readme-stats)
 
+# Tecnologias que estou aprendendo!
+<div>
+    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+<br/>
+
+# Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/kaikeol_kb/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+)](https://www.facebook.com/profile.php?id=100053407261853)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/kaike-oliveira-08649324a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)](https://twitter.com/KaikeOl25471020)
