@@ -6,7 +6,7 @@ WHATS UP!
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
