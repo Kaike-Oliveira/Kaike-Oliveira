@@ -2,7 +2,7 @@
 
 ## 🎓 Iniciando em Ciências da Computação
 
-## 👨‍💻 Começando a aprender Backend com Python!
+## 👨‍💻 Começando a aprender Front-end com HTML, CSS, JAVASCRIPT!
 
 ## 💡 Em busca de novos conhecimentos
 
