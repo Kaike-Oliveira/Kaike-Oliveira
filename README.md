@@ -7,7 +7,7 @@
 ## 💡 Em busca de novos conhecimentos
 
 ![Kaike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&show_icons=true&theme=dracula)](https://github.com/Kaike-Oliveira/github-readme-stats)
+
 
 # Tecnologias que estou aprendendo!
 <div>
