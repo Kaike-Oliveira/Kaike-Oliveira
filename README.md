@@ -7,8 +7,8 @@
 ## 💡 Em busca de novos conhecimentos
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrigos&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrigos&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&theme=dracula">
 </div>
 
 
