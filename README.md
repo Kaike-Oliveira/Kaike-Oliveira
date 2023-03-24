@@ -6,12 +6,14 @@
 
 ## 💡 Em busca de novos conhecimentos
 
-![Kaike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&show_icons=true&theme=dracula)](https://github.com/Kaike-Oliveira/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrigos&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrigos&theme=dracula">
+</div>
 
 
 # Tecnologias que estou aprendendo!
 <div>
-    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
