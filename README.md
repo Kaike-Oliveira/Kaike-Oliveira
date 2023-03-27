@@ -2,7 +2,7 @@
 
 ## 🎓 Iniciando em Ciências da Computação
 
-## 👨‍💻 Começando a aprender Front-end com HTML, CSS, JAVASCRIPT!
+## 👨‍💻 Começando a aprender Front-end com HTML, CSS, JAVASCRIPT e React!
 
 ## 💡 Em busca de novos conhecimentos
 
@@ -13,11 +13,11 @@
 
 
 # Tecnologias que estou aprendendo!
-<div>
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="REACT" src="https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=REACT&logoColor=white" />
+<div align="center">
+    <img align="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img align="center" alt="JAVASCRIPT" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="REACT" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
 </div>
 <br/>
