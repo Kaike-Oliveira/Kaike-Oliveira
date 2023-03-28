@@ -1,26 +1,34 @@
 # Whats up! Kaike here!  🚀 
 
+<br>
+
 ## 🎓 Iniciando em Ciências da Computação
 
+<br>
+
 ## 👨‍💻 Começando a aprender Front-end com HTML, CSS, JAVASCRIPT e React!
+
+<br>
 
 ## 💡 Em busca de novos conhecimentos
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&theme=dark">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&theme=codeSTACKr">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&theme=codeSTACKr">
 </div>
 
+<br>
 
 # Tecnologias que estou aprendendo!
 <div align="center">
-    <img align="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img align="center" alt="JAVASCRIPT" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="REACT" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <code><img height="40" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 </div>
-<br/>
+
+<br>
 
 # Social
 
