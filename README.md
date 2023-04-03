@@ -2,7 +2,7 @@
 
 <br>
 
-## 🎓 Iniciando em Ciências da Computação
+## 🎓 Cursando Ciências da Computação na <a target="_blank" href="https://unip.br/">UNIP</a> e desenvolvendo habilidades no front-end através da <a target="_blank" href="udemy.com">UDEMY</a>
 
 <br>
 
