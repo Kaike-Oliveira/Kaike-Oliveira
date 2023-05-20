@@ -2,15 +2,15 @@
 
 <br>
 
-## 🎓 Cursando Ciências da Computação na <a target="_blank" href="https://unip.br/">UNIP</a> e desenvolvendo habilidades no front-end através da <a target="_blank" href="https://www.udemy.com/">UDEMY</a>.
+## 🎓 Studying Software Engineering at <a target="_blank" href="https://www.unicesumar.edu.br/">UniCesumar</a> and developing front-end skills through <a target="_blank" href="https://www.udemy.com/">UDEMY</a> and <a target="_blank" href="https://www.alura.com.br/?gclid=CjwKCAjwvJyjBhApEiwAWz2nLdkG7M2d7BpR4131xy12ZX-a0TnInYt6IcW1DcBNx4-gZkr05EcK_xoCSjkQAvD_BwE">ALURA</a>.
 
 <br>
 
-## 👨‍💻 Começando a aprender Front-end com HTML, CSS, JAVASCRIPT e React!
+## 👨‍💻  Starting to learn Front-end with HTML, CSS, JAVASCRIPT, TYPESCRIPT and REACT!
 
 <br>
 
-## 💡 Em busca de novos conhecimentos
+## 💡 Seeking new knowledge
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&theme=codeSTACKr">
@@ -19,7 +19,7 @@
 
 <br>
 
-# Tecnologias que estou aprendendo!
+# Technologies I'm learning!
 <div align="center">
     <code><img height="30" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
