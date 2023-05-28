@@ -2,7 +2,7 @@
 
 <br>
 
-## 🎓 Studying Software Engineering at <a target="_blank" href="https://www.unicesumar.edu.br/">UniCesumar</a> and developing front-end skills through <a target="_blank" href="https://www.udemy.com/">UDEMY</a> and <a target="_blank" href="https://www.alura.com.br/?gclid=CjwKCAjwvJyjBhApEiwAWz2nLdkG7M2d7BpR4131xy12ZX-a0TnInYt6IcW1DcBNx4-gZkr05EcK_xoCSjkQAvD_BwE">ALURA</a>.
+## 🎓 Studying Software Engineering at <a target="_blank" href="https://www.unicesumar.edu.br/">UniCesumar</a> and developing front-end skills through <a target="_blank" href="https://www.udemy.com/">UDEMY</a> and <a target="_blank" href="https://cursos.alura.com.br/user/kaikeoliveira196">ALURA</a>.
 
 <br>
 
