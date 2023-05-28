@@ -17,6 +17,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&theme=codeSTACKr">
 </div>
 
+![Snake animation](https://github.com/Kaike-Oliveira/Kaike-Oliveira/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 # Technologies I'm learning!
