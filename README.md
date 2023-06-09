@@ -12,9 +12,9 @@
 
 ## 💡 Seeking new knowledge
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&theme=codeSTACKr">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&theme=codeSTACKr">
+<div align="center" heigth="200em">
+  <img width="66%" src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&theme=codeSTACKr">
+  <img width="30%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&theme=codeSTACKr">
 </div>
 
 <br>
