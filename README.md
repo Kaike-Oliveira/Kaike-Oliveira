@@ -21,7 +21,7 @@
 
 ## Commits
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rdrigos&bg_color=0d1117&color=ffffff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaike-Oliveira&bg_color=0d1117&color=ffffff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaike-Oliveira&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Kaike Cesar github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaike-Oliveira&layout=compact&hide_border=true&title_color=1E90FF&text_color=ffffff&bg_color=0d1117" />
